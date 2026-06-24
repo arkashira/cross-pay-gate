@@ -1,2 +1,5 @@
-# cross-pay-gate
-axentx product · A blockchain-based cross-border payment platform that provides fast, low-cost, and transparent transactions for banks, payment providers, corporations, and digital asset exchanges.
+# Payment Tracker
+A simple payment tracker implementation in Python.
+
+## Usage
+To run the tests, use the following command:
